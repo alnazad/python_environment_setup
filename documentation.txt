@@ -1,0 +1,6 @@
+1.Remove-Item -Recurse -Force E:\abdullah\web\Github_Project\Wacoa-Search-System-Backend-Firebase\functions\venv
+2.python -m venv E:\abdullah\web\Github_Project\Wacoa-Search-System-Backend-Firebase\functions\venv
+3.e:\ABDULLAH\web\Github_Project\Wacoa-Search-System-Backend-Firebase\functions\venv\Scripts\Activate.ps1
+3.e:\ABDULLAH\web\Github_Project\Wacoa-Search-System-Backend-Firebase\functions\venv\Scripts\activate.bat
+4.pip install -r E:\abdullah\web\Github_Project\Wacoa-Search-System-Backend-Firebase\functions\requirements.txt
+5.firebase emulators:start
